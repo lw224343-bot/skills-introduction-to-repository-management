@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py @lw224343-bot
+/src/backend/database.py @lw224343-bot
+/src/backend/routers/auth.py @lw224343-bot
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/ @lw224343-bot
